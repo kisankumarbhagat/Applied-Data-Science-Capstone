@@ -15,7 +15,7 @@ Kisan Kumar
 
 ### Project Links:
 
-1. **Code:** [Jupyter Notebook]([https://github.com/kisankumarbhagat/Applied-Data-Science-Capstone/blob/main/Tale_of_Two_Cities_A_Data_Science_Take.ipynb])
+1. **Code:** [Jupyter Notebook](https://github.com/kisankumarbhagat/Applied-Data-Science-Capstone/blob/main/Tale_of_Two_Cities_A_Data_Science_Take.ipynb)
 2. **Report:** [Report](https://github.com/kisankumarbhagat/Applied-Data-Science-Capstone/blob/main/Data_Science_Report.ipynb)
 
 # Introduction
