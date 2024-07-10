@@ -7,10 +7,10 @@
 Clustering the Neighbourhoods of London and Paris
   <br>
   <br>
-Thomas George Thomas
+Kisan Kumar
 <br>
   <br>
-18th August 2020
+7th July 2024
 </h2>
 
 ### Project Links:
