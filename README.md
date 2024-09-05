@@ -4,7 +4,7 @@
 <h1 align="center"> A Tale of Two Cities </h1>
 
 <h2 align="center">
-Clustering the Neighbourhoods of London and Paris
+Clustering the Neighbourhoods of London and Paris 
   <br>
   <br>
 Kisan Kumar
